@@ -10,7 +10,7 @@ namespace MyFirstSPDVI_consuleUi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hellow spdvi 2021");
+            Console.WriteLine("hello spdvi 2021");
             Console.ReadKey();
         }
     }
